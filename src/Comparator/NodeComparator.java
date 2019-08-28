@@ -3,21 +3,6 @@ package Comparator;
 import Node.Node;
 
 /**
- * *******************************************************************************
- *
- * All code contained herein is the sole property of CollaborateMD, Inc. and may
- * not be used, copied, or duplicated in any manner without express written
- * permission from CollaborateMD, Inc.
- *
- * (c) 2017, all rights reserved
- *
- * Created Jul 13, 2017 7:03:17 PM
- *
- * ********************************************************************************
- */
-
-
-/**
  *
  * @author <Jared Nelsen>
  */
